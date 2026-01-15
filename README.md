@@ -47,11 +47,11 @@
 ## 📊 GitHub 统计
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zfdx123&show_icons=true&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-rho-six-75.vercel.app/api?username=zfdx123&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zfdx123&layout=compact&theme=github_dark&hide_border=true" />
+  <img src="https://github-readme-stats-rho-six-75.vercel.app/api/top-langs/?username=zfdx123&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
